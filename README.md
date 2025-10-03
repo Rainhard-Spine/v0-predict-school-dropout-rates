@@ -301,4 +301,4 @@ Built with:
 - SWR for data fetching
 \`\`\`
 
-```json file="" isHidden
+\`\`\`json file="" isHidden
